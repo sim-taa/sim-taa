@@ -4,7 +4,7 @@
 
 <h4>Full Stack Web Developer | Software Engineer</h4>
 
-I am in transition from project management to software engineering. My industry experience is in e-commerce, communications, web-to-print, and customer experience. Currently a Bloomtech student, anticipating graduation in Summer 2022.
+I am in transition from project management to software engineering. My industry experience is in e-commerce, communications, web-to-print, and customer experience. Currently a Bloomtech student, anticipating graduation in Winter 2022.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,7 +21,6 @@ I am in transition from project management to software engineering. My industry 
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-...and more added weekly.
 <br/>
 
 <a href="https://github.com/AVS1508">
