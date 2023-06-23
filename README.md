@@ -4,7 +4,7 @@
 
 <h4>Full Stack Web Developer | Software Engineer</h4>
 
-I am in transition from project management to software engineering. My industry experience is in e-commerce, communications, web-to-print, and customer experience. Currently a Bloomtech student, anticipating graduation in Winter 2022.
+I am in transition from project management to software engineering. My industry experience is in e-commerce, communications, web-to-print, and customer experience. I am a recent BloomTech grad.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
