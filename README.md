@@ -2,9 +2,9 @@
 
 <h3> About Me </h3>
 
-<h4>Full Stack Web Developer | Software Engineer</h4>
+<h4>Product Manager | Project Manager</h4>
 
-I am in transition from project management to software engineering. My industry experience is in e-commerce, communications, web-to-print, and customer experience. I am a recent BloomTech grad.
+My industry experience is in e-commerce, communications, web-to-print, and customer experience. I am a recent BloomTech grad.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
